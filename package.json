@@ -1,0 +1,33 @@
+{
+  "name": "havingfun",
+  "version": "1.0.0",
+  "description": "lets add a js dependecy loader",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NorbertNader/havingFun.git"
+  },
+  "author": "norbert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NorbertNader/havingFun/issues"
+  },
+  "homepage": "https://github.com/NorbertNader/havingFun#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "browserify": "^14.4.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "redux": "^3.7.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  }
+}
